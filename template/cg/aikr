@@ -15,9 +15,7 @@ You can find information about the {{ group.name }} here:
 A summary of where we are at is available here:
   https://www.w3.org/community/{{ CG }}/wiki/Welcome_Post
 
-Participants in the {{ group.name }} are expected to behave in accordance with the W3C Code of Conduct:
+All participants in the {{ group.name }} are expected to behave in accordance with the W3C Code of Conduct:
   https://www.w3.org/policies/code-of-conduct/
 
-If you have any questions or concerns, you can reach the {{ group.name }} chairs and team contacts (in Cc of this message) directly.
-
-{% endif %}
+If you have any questions or concerns, you can reach the {{ group.name }} chairs directly.
