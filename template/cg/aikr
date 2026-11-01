@@ -13,7 +13,15 @@ You can find information about the {{ group.name }} here:
   https://www.w3.org/community/{{ CG }}/
 
 A summary of where we are at is available here:
+  https://w3c-cg.github.io/aikr/
+
+(Please note that the github repo is updated every once in a while, but the public mailing list linked from the repo home page contains
+pointers to the latest topics and discussions)
+
+An older repo (the old wiki)
   https://www.w3.org/community/{{ CG }}/wiki/Welcome_Post
+
+We look forward to your active participation and co-leadership
 
 All participants in the {{ group.name }} are expected to behave in accordance with the W3C Code of Conduct:
   https://www.w3.org/policies/code-of-conduct/
