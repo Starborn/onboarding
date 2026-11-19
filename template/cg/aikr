@@ -1,19 +1,27 @@
-
 Welcome to the {{ group.name }}, and thank you for joining!
 
-The {{ group.name }} was established in 2018 in response to the growing role of machine learning–based AI in technology. During that period, increasing attention was given to the “black box” nature of AI systems — particularly challenges related to explainability, transparency, and replicability.
+The {{ group.name }} was established in 2018, in response to the growing role of machine learning–based AI in technology. At the time, attention was turning to the "black box" nature of AI systems and the challenges of explainability, transparency and replicability. Since then, modelling AI agents and protocols has become a priority for participants.
 
-The group was founded on the understanding that Knowledge Representation (KR) can play a key role in supporting the understanding and explainability of AI systems.
+Knowledge Representation (KR) was seen from the start as a way to make AI systems easier to explain and to examine. The aim is to produce artefacts and methods for the shared representation of AI: vocabularies, ontologies, taxonomies, notes and specifications.
 
-As AI has evolved — especially with the emergence of large language models — the relevance of natural language–based knowledge representation has increased significantly. Today, language models serve as natural language interfaces to AI tools, applications, and environments, including systems that do not have native LLM interfaces.
+AI has kept evolving. Large language models now serve as natural language interfaces to AI tools, applications and environments, and AI agents act on behalf of people and organisations. The group's work follows these changes and looks at how KR can support interoperability, explainability, structured prompting and trustworthy AI in these dynamic environments.
 
-The primary focus of the {{ group.name }} is therefore to explore how natural language interfaces are being integrated into AI architectures at multiple levels, and how Knowledge Representation can support interoperability, explainability, structured prompting, and trustworthy AI integration.
+Current focus: knowledge representation of trust. Work so far addresses the agentic layer, where trust is chained across agents that verify one another's identity and authority. Trust in non-agentic AI, including machine learning models and LLMs, is open for contributions:
+  https://github.com/w3c-cg/aikr/blob/main/trust/trustinai(non_agentic).md
 
 You can find information about the {{ group.name }} here:
   https://www.w3.org/community/{{ CG }}/
 
-A summary of where we are at is available here:
-  https://www.w3.org/community/{{ CG }}/wiki/Welcome_Post
+A summary of where we are at, with current work and open consultations:
+  https://w3c-cg.github.io/aikr/
+
+Inventory of all group artefacts since 2018:
+  https://w3c-cg.github.io/aikr/inventory/
+
+How to contribute:
+  - Post to the public mailing list, public-aikr@w3.org
+  - Open issues or pull requests in the GitHub repository, https://github.com/w3c-cg/aikr
+  - Before opening a pull request, connect your GitHub account to your W3C account so the IPR check can pass
 
 All participants in the {{ group.name }} are expected to behave in accordance with the W3C Code of Conduct:
   https://www.w3.org/policies/code-of-conduct/
